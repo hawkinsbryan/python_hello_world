@@ -92,7 +92,7 @@ else:
 
 
 weight = int(input('What is your weight? '))
-unit = input('Please input k for kg or l for lbs ')
+unit = input('Please user_input k for kg or l for lbs ')
 
 if unit.lower() == 'k':
     converted_weight = weight / .45
@@ -101,4 +101,4 @@ elif unit.lower() == 'l':
     converted_weight = weight * .45
     print(f'Your weight in kgs is {converted_weight}')
 else:
-    print('Please try again and input k or l')
+    print('Please try again and user_input k or l')

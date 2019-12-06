@@ -18,7 +18,7 @@
 # guess_limit = 3
 #
 # while guess_count < guess_limit:
-#     guess = int(input('Guess: '))
+#     guess = int(user_input('Guess: '))
 #     guess_count += 1
 #     if guess == secret_number:
 #         print('You guessed correctly')
@@ -57,4 +57,4 @@ while True:
     elif command == 'quit':
         break
     else:
-        print('I dont understand that input')
+        print('I dont understand that user_input')

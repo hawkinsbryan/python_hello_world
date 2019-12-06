@@ -17,19 +17,19 @@
 # age = 20
 # is_new = True
 
-# new_name = input('What is your name? ')
-# favorite_color = input('What is your favorite color? ')
+# new_name = user_input('What is your name? ')
+# favorite_color = user_input('What is your favorite color? ')
 # print('Hi ' + new_name)
 # print(new_name + "'s favorite color is " + favorite_color)
 
-# birth_year = input('Birth Year: ')
+# birth_year = user_input('Birth Year: ')
 # age = 2019 - int(birth_year)
 # print(age)
 
 # ask a user their weight, then convert it to kilograms
 
 
-# weight = input('How much do you weigh in lbs? ')
+# weight = user_input('How much do you weigh in lbs? ')
 # converted_age = int(weight) / 2.2046
 # print(converted_age)
 

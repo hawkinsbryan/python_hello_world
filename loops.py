@@ -37,7 +37,7 @@ for x in range(4):
 
 numbers = [2, 5, 2, 3, 4, 5]
 
-# for x in numbers:
+# for x in coordinates:
 #     print('x' * x )
 
 for x_count in numbers:
